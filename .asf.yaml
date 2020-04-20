@@ -1,3 +1,5 @@
 github:
     labels:
+        - java
+        - sling
         - deprecated
