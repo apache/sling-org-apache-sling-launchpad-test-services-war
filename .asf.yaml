@@ -1,5 +1,15 @@
 github:
-    labels:
-        - java
-        - sling
-        - deprecated
+  labels:
+  - "java"
+  - "sling"
+  - "deprecated"
+  autolink_jira:
+  - "SLING"
+  - "OAK"
+  - "JCR"
+  - "JCRVLT"
+  - "INFRA"
+  - "FELIX"
+  - "MNG"
+notifications:
+  jira_options: "link"
